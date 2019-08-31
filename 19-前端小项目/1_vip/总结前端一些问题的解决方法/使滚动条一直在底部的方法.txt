@@ -1,3 +1,0 @@
-
-var boxx = document.getElementById("boxx");
-boxx.scrollTop = boxx.scrollHeight;//使滚动条一直在底部
