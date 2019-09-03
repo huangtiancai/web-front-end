@@ -1,2 +1,0 @@
-图片不可拖拽：ondragstart="return false" 
-不可选中：onselectstart="return false"

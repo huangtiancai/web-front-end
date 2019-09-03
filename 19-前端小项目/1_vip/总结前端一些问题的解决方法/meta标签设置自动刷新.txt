@@ -1,2 +1,0 @@
-<meta http-equiv='refresh' content='1'>
-//设置1s中刷新一次
