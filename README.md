@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 github上资源收集：
 
 http://how2j.cn/
@@ -21,7 +20,3 @@ https://github.com/h2pl/MyTech
 
 https://github.com/anbang/javascript-notes
 
-
-=======
-#### web前端综合整理
->>>>>>> a9b26f2af86f899a917e6da677e2d49036c56b01
